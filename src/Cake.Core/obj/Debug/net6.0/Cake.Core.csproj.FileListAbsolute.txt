@@ -1,0 +1,15 @@
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\bin\Debug\net6.0\Cake.Core.deps.json
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\bin\Debug\net6.0\Cake.Core.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\bin\Debug\net6.0\Cake.Core.pdb
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\bin\Debug\net6.0\Cake.Core.xml
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\obj\Debug\net6.0\Cake.Core.csproj.AssemblyReference.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\obj\Debug\net6.0\Cake.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\obj\Debug\net6.0\Cake.Core.AssemblyInfoInputs.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\obj\Debug\net6.0\Cake.Core.AssemblyInfo.cs
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\obj\Debug\net6.0\Cake.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\obj\Debug\net6.0\Cake.Core.sourcelink.json
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\obj\Debug\net6.0\Cake.Core.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\obj\Debug\net6.0\refint\Cake.Core.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\obj\Debug\net6.0\Cake.Core.xml
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\obj\Debug\net6.0\Cake.Core.pdb
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Core\obj\Debug\net6.0\ref\Cake.Core.dll

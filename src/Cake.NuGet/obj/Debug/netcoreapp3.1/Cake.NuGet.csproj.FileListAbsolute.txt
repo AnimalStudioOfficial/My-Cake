@@ -1,0 +1,17 @@
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\bin\Debug\netcoreapp3.1\Cake.NuGet.deps.json
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\bin\Debug\netcoreapp3.1\Cake.NuGet.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\bin\Debug\netcoreapp3.1\Cake.NuGet.pdb
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\bin\Debug\netcoreapp3.1\Cake.NuGet.xml
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\bin\Debug\netcoreapp3.1\Cake.Core.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\bin\Debug\netcoreapp3.1\Cake.Core.pdb
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\bin\Debug\netcoreapp3.1\Cake.Core.xml
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\obj\Debug\netcoreapp3.1\Cake.NuGet.csproj.AssemblyReference.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\obj\Debug\netcoreapp3.1\Cake.NuGet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\obj\Debug\netcoreapp3.1\Cake.NuGet.AssemblyInfoInputs.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\obj\Debug\netcoreapp3.1\Cake.NuGet.AssemblyInfo.cs
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\obj\Debug\netcoreapp3.1\Cake.NuGet.csproj.CoreCompileInputs.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\obj\Debug\netcoreapp3.1\Cake.NuGet.sourcelink.json
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\obj\Debug\netcoreapp3.1\Cake.NuGet.csproj.CopyComplete
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\obj\Debug\netcoreapp3.1\Cake.NuGet.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\obj\Debug\netcoreapp3.1\Cake.NuGet.xml
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.NuGet\obj\Debug\netcoreapp3.1\Cake.NuGet.pdb

@@ -1,0 +1,17 @@
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\bin\Debug\netcoreapp3.1\Cake.DotNetTool.Module.deps.json
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\bin\Debug\netcoreapp3.1\Cake.DotNetTool.Module.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\bin\Debug\netcoreapp3.1\Cake.DotNetTool.Module.pdb
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\bin\Debug\netcoreapp3.1\Cake.DotNetTool.Module.xml
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\bin\Debug\netcoreapp3.1\Cake.Core.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\bin\Debug\netcoreapp3.1\Cake.Core.pdb
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\bin\Debug\netcoreapp3.1\Cake.Core.xml
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\obj\Debug\netcoreapp3.1\Cake.DotNetTool.Module.csproj.AssemblyReference.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\obj\Debug\netcoreapp3.1\Cake.DotNetTool.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\obj\Debug\netcoreapp3.1\Cake.DotNetTool.Module.AssemblyInfoInputs.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\obj\Debug\netcoreapp3.1\Cake.DotNetTool.Module.AssemblyInfo.cs
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\obj\Debug\netcoreapp3.1\Cake.DotNetTool.Module.csproj.CoreCompileInputs.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\obj\Debug\netcoreapp3.1\Cake.DotNetTool.Module.sourcelink.json
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\obj\Debug\netcoreapp3.1\Cake.DotNetTool.Module.csproj.CopyComplete
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\obj\Debug\netcoreapp3.1\Cake.DotNetTool.Module.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\obj\Debug\netcoreapp3.1\Cake.DotNetTool.Module.xml
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.DotNetTool.Module\obj\Debug\netcoreapp3.1\Cake.DotNetTool.Module.pdb

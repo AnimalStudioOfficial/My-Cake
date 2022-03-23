@@ -1,0 +1,17 @@
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\bin\Debug\netcoreapp3.1\Cake.Common.deps.json
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\bin\Debug\netcoreapp3.1\Cake.Common.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\bin\Debug\netcoreapp3.1\Cake.Common.pdb
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\bin\Debug\netcoreapp3.1\Cake.Common.xml
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\bin\Debug\netcoreapp3.1\Cake.Core.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\bin\Debug\netcoreapp3.1\Cake.Core.pdb
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\bin\Debug\netcoreapp3.1\Cake.Core.xml
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\obj\Debug\netcoreapp3.1\Cake.Common.csproj.AssemblyReference.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\obj\Debug\netcoreapp3.1\Cake.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\obj\Debug\netcoreapp3.1\Cake.Common.AssemblyInfoInputs.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\obj\Debug\netcoreapp3.1\Cake.Common.AssemblyInfo.cs
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\obj\Debug\netcoreapp3.1\Cake.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\obj\Debug\netcoreapp3.1\Cake.Common.sourcelink.json
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\obj\Debug\netcoreapp3.1\Cake.Common.csproj.CopyComplete
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\obj\Debug\netcoreapp3.1\Cake.Common.dll
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\obj\Debug\netcoreapp3.1\Cake.Common.xml
+C:\Users\Dragon boy\Downloads\cake-develop (1)\cake-develop\src\Cake.Common\obj\Debug\netcoreapp3.1\Cake.Common.pdb

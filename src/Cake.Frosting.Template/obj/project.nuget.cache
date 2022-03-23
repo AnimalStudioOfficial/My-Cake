@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvEjdnD7CfzMosAzD/jnEfR5eusMqAQhqRlKjlaWoRgKiNCB1eSCx5yLfX1ANKxZCEmsIGXAI7SGO/C8M6vBlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dragon boy\\Downloads\\cake-develop (1)\\cake-develop\\src\\Cake.Frosting.Template\\Cake.Frosting.Template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dragon boy\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\Dragon boy\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\Dragon boy\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512",
+    "C:\\Users\\Dragon boy\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

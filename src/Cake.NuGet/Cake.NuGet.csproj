@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Cake.NuGet</AssemblyName>
+    <OutputType>Library</OutputType>
+    <PlatformTarget>AnyCpu</PlatformTarget>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);NU1605</NoWarn>
+  </PropertyGroup>
+  <!-- Package specific metadata -->
+  <PropertyGroup>
+    <Description>Cake Module providing NuGet install capabilities for i.e. preprocessor directives like #addin, #tool and #load</Description>
+  </PropertyGroup>
+  <!-- Import shared functionality -->
+  <Import Project="..\Shared.msbuild" />
+  <!-- Project references -->
+  <ItemGroup>
+    <ProjectReference Include="..\Cake.Core\Cake.Core.csproj" />
+  </ItemGroup>
+  <!-- Global packages -->
+  <ItemGroup>
+    <PackageReference Include="NuGet.Frameworks" Version="6.1.0" />
+    <PackageReference Include="NuGet.Versioning" Version="6.1.0" />
+    <PackageReference Include="NuGet.Protocol" Version="6.1.0" />
+    <PackageReference Include="NuGet.Packaging" Version="6.1.0" />
+    <PackageReference Include="NuGet.Resolver" Version="6.1.0" />
+    <PackageReference Include="NuGet.Common" Version="6.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Microsoft.DotNet.PlatformAbstractions" Version="3.1.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETCore.Platforms" Version="6.0.2" GeneratePathProperty="true">
+      <PrivateAssets>All</PrivateAssets>
+    </PackageReference>
+    <EmbeddedResource Include="$(PkgMicrosoft_NETCore_Platforms)\runtime.json">
+      <Link>runtime.json</Link>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
